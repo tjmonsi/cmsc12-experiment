@@ -10,3 +10,5 @@ This is my playground for the cmsc 12 class
 
 # Steps for teaching
 
+1. Add Hello World html
+2. Teach different styles of putting scripts
